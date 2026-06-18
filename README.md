@@ -1,20 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    Isac Andrade — Profile Header
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=E6EDF3&width=500&lines=Future+DevOps+%26+Cloud+Engineer;Obsessed+with+technology💻.;Building+things+that+run+in+production.;Containers%2C+pipelines+%26+automation.;Always+learning.+Always+shipping.)](https://git.io/typing-svg)
+
+
+> Software Developer · DevOps Enthusiast
+
+
+---
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker"
+    
+  [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) 
+  [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) 
+  [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) 
+  [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) 
+  [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) 
+  [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) 
+  [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) 
+
   
-</head>
-<body>
-
-  <div class="card">
-    <p class="greeting">// hello world</p>
-    <h1 class="name">Isac Andrade</h1>
-    <p class="name-sub">Brazil · Software Developer</p>
-    <div class="accent"></div>
-    <p class="typing" id="typing"></p>
-  </div>
-
-</body>
-</html>
+  </a>
+  
+</p>
