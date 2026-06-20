@@ -16,7 +16,6 @@
   [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) 
   [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) 
   [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) 
-  [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) 
   [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) 
   [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev) 
   [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) 
