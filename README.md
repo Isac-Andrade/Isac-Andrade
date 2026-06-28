@@ -20,6 +20,7 @@
   [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev) 
   [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
   </a>
   
 </p>
