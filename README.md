@@ -28,7 +28,7 @@
 
 📂 What I'm building
 
-All my projects come from real study — I pick a concept, build something with it, and document what I learned.
+All my projects come from real study. I pick a concept, build something with it, and document what I learned.
 
 👉 Check my pinned repositories below. [Docker Bash Toolkit](https://github.com/Isac-Andrade/docker-bash-toolkit),  [System Status Api](https://github.com/Isac-Andrade/system-status-api).
 
