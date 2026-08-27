@@ -1,4 +1,4 @@
-⚙️ Software Engineering student building a DevOps career from the ground up
+🖥️ Software Engineering student building a DevOps career from the ground up
 
 🎓 Studying Software Engineering at [Universidade Católica de Brasília](https://ucb.catolica.edu.br)
 
