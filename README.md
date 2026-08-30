@@ -21,6 +21,7 @@
   [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
   </a>
   
 
